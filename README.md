@@ -45,8 +45,9 @@ wal -R
 ```
 ---
 #### Usage
----
+
 You can either directly execute the theme selector script from the terminal or you can bind it from the config file which would then fireup a rofi menu to select the themes
+
 ---
 #### Themes
 ![](./images/Collage.png)
