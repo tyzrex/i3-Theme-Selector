@@ -42,8 +42,7 @@ change_color() {
 	zathura-pywal
 	pywal-discord -t default
 	polybar-msg cmd restart
-	cd .spicetify 
-	./spicetify apply
+	spicetify apply
 }
 
 # Main
